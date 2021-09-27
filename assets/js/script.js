@@ -241,7 +241,7 @@ function getFive(){
         $(fiveColour).addClass("present");
     }
     else {
-        $(fiveSColour).addClass("past")
+        $(fiveColour).addClass("past")
     }
 }
 
